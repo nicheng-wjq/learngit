@@ -6,3 +6,5 @@ Git tracks change of files.
 Creating a new branch is quick and simple.
 
 merge!
+
+merge!!
