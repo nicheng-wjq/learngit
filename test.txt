@@ -1,2 +1,4 @@
 i love you.
 my name is wujiaqi.
+
+test for git stash function!
